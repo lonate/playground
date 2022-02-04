@@ -11,7 +11,7 @@ Better Player for Youtube는 iPhone, iPad, 및 Mac 용 Youtube에서 극장과 �
 
   ![Screen Shot](/Resources/better-player.png)
 
-*전체 화면 또는 picture-in-picture 모드에서 비디오를 재생할 수 있습니다.
+* 전체 화면 또는 picture-in-picture 모드에서 비디오를 재생할 수 있습니다.
 * Better Player는 모든 광고를 차단합니다.
 * Better Player는 Youtube 비디오용 내장 된 컨트롤러로 배경을 자동으로 어둡게 합니다.
 ## 다운로드
