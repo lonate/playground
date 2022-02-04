@@ -15,7 +15,7 @@ Better Player for Youtube는 iPhone, iPad, 및 Mac 용 Youtube에서 극장과 �
 * Better Player는 모든 광고를 차단합니다.
 * Better Player는 Youtube 비디오용 내장 된 컨트롤러로 배경을 자동으로 어둡게 합니다.
 ## 다운로드
-The latest version of Better Player for Youtube is available in AppStore:
+Better Player for YouTube의 최신 버전은 App Store에서 다운로드할 수 있습니다.
 
 [<img src="/Resources/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg">](https://apps.apple.com/app/better-player-for-youtube/id1592876082)
 
