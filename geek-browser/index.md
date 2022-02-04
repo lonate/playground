@@ -20,14 +20,14 @@ Geek Browser is a full-screen and super-fast web browser for iPad with a VIM-lik
 ## Downloads
 The latest version of Geek Browser is available in AppStore:
 
-[<img src="/playground/Resources/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg">](https://itunes.apple.com/app/id1457482155)
+[<img src="../Resources/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg">](https://itunes.apple.com/app/id1457482155)
 
 ## Privacy Policy
 Geek Browser does NOT collect any of your data. The data Geek Browser stores locally are your browser history, bookmarks and settings. These are only saved locally. No one, other than you, has access to this data.
 
 ## Key Bindings
 ### Cheatsheet (Default)
-  ![Screen Shot](/playground/Resources/keyboard_default.jpg) 
+  ![Screen Shot](../Resources/keyboard_default.jpg) 
 
 | Key          |Command|
 |:-------------|:----------------------|
@@ -50,7 +50,7 @@ Geek Browser does NOT collect any of your data. The data Geek Browser stores loc
 
 
 ### Cheatsheet (+Command)
-  ![Screen Shot](/playground/Resources/keyboard_command.jpg) 
+  ![Screen Shot](../Resources/keyboard_command.jpg) 
 
 | Key          | Command           |
 |:-------------|:------------------|
@@ -72,7 +72,7 @@ Geek Browser does NOT collect any of your data. The data Geek Browser stores loc
 
 
 ### Cheatsheet (+Control)
-  ![Screen Shot](/playground/Resources/keyboard_control.jpg) 
+  ![Screen Shot](../Resources/keyboard_control.jpg) 
 
 | Key          |Command|
 |:-------------|:----------------------|
@@ -85,11 +85,11 @@ Geek Browser does NOT collect any of your data. The data Geek Browser stores loc
 ## Links
 Geek Browser supports navigating the web pages with the keyboard. When you type <kbd>tab</kbd> or <kbd>n</kbd>, Geek Browser shows the link tags. You can type <kbd>tab</kbd> / <kbd>n</kbd>, or <kbd>shift</kbd> + <kbd>tab</kbd> / <kbd>shift</kbd> + <kbd>n</kbd> to move the focus to the next link or the previous link. And you press enter to open the link. Otherwise, type the tag code or number to open the link directly.
 
-  ![Screen Shot](/playground/Resources/links.gif)
+  ![Screen Shot](../Resources/links.gif)
 
 ## Commands
 Geek Browser supports command line interface in its address bar. Command starts with <kbd>:</kbd>. When you type <kbd>:</kbd> in the address bar, Geek Browser shows the console. You can type the command and press enter to execute the command.
-  ![Screen Shot](/playground/Resources/commands.gif)
+  ![Screen Shot](../Resources/commands.gif)
 
 ### ping
 **ping** sends ICMP packets to network hosts. **ping** allows a user to verify that a particular IP address exists and can accept requests.
