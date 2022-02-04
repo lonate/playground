@@ -1,0 +1,10 @@
+theme: jekyll-theme-primer
+title: Jasmine Studios
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+  
+# Google Analytics
+google_analytics: UA-138756895-1
