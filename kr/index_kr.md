@@ -1,26 +1,25 @@
 # Better Player for Youtube
 
-- [Introduction](#introduction)
-- [Downloads](#downloads)
-- [Version History](#version-history)
-- [Installation Guide](#installation-guide)
-- [Privacy Policy](#privacy-policy)
+- [소개](#소개)
+- [다운로드](#다운로드)
+- [버전 기록](#버전-기록)
+- [설치 가이드](#설치-가이드)
+- [개인 정보 정책](#개인-정보-정책)
 
-## Introduction
-Better Player for Youtube is a Safari Extension for theater-like experience for Youtube for iPhone, iPad and Mac. Better Player for Youtube fades out other areas and helps you focus on the video. And also has a built-in Ad-block for Youtube videos and it automatically skips the ads in Youtube videos.
+## 소개
+Better Player for Youtube는 iPhone, iPad, 및 Mac 용 Youtube에서 극장과 같은 경험을 제공하는 Safari 확장 프로그램입니다. Better Player for Youtube는 다른 영역을 사라지게 하고 비디오에 집중할 수 있도록 도와줍니다. 또한 Youtube 비디오용 Ad-block이 내장되어 있으며 Youtube의 광고를 자동으로 건너뜁니다.
 
   ![Screen Shot](/Resources/better-player.png)
 
-* You can play videos in a fullscreen or picture-in-picture mode. 
-* Better Player blocks all the ads.
-* Better Player automatically darken the background with embedded controller for Youtube videos. 
-
-## Downloads
+*전체 화면 또는 picture-in-picture 모드에서 비디오를 재생할 수 있습니다.
+* Better Player는 모든 광고를 차단합니다.
+* Better Player는 Youtube 비디오용 내장 된 컨트롤러로 배경을 자동으로 어둡게 합니다.
+## 다운로드
 The latest version of Better Player for Youtube is available in AppStore:
 
 [<img src="/Resources/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg">](https://apps.apple.com/app/better-player-for-youtube/id1592876082)
 
-## Version History
+## 버전 기록
 ### v1.2.0
 * Set up to show / hide buttons
 * Set up to change background and button colors
@@ -38,7 +37,7 @@ The latest version of Better Player for Youtube is available in AppStore:
 * UI enhancement for the embedded toolbars
 * Settings for adblock and auto-load
 
-## Installation Guide
+## 설치 가이드
 ### macOS
 1. Launch Better Player for Youtube application. Select *Setup* in side bar of the application. And click *Open Safari Extensions Preferences* button. 
 
@@ -73,7 +72,7 @@ The latest version of Better Player for Youtube is available in AppStore:
 
   <img src="/Resources/better-player/ipad-setup-03.png" width="680"/>
 
-## Privacy Policy
+## 개인 정보 정책
 Better Player for Youtube does NOT collect any of your data. The only data Better Player for Youtube stores are your settings. These are only saved locally. No one, other than you, has access to this data.
 
 Because of the way Better Player for Youtube works, the Better Player for Youtube extension needs to have permission to access to the website. This is needed because Better Player for Youtube has to add javascript to control Youtube videos and darken the page. However, Better Player for Youtube never use these permissions to actually read the websites you visit, or to access your browsing history. 
