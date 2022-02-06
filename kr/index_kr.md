@@ -14,6 +14,7 @@ Better Player for Youtube는 iPhone, iPad, 및 Mac 용 Youtube에서 극장과 �
 * 전체 화면 또는 picture-in-picture 모드에서 비디오를 재생할 수 있습니다.
 * Better Player는 모든 광고를 차단합니다.
 * Better Player는 Youtube 비디오용 내장 된 컨트롤러로 배경을 자동으로 어둡게 합니다.
+
 ## 다운로드
 Better Player for YouTube의 최신 버전은 App Store에서 다운로드할 수 있습니다.
 
@@ -21,14 +22,14 @@ Better Player for YouTube의 최신 버전은 App Store에서 다운로드할 �
 
 ## 버전 기록
 ### v1.2.0
-* Set up to show / hide buttons
-* Set up to change background and button colors
+* 버튼 표시/숨기기 설정
+* 배경 및 버튼 색깔을 변경하도록 설정
 
 ### v1.1.2
-* Fix for the issue with Youtube's 'keep hovering to play'
+* Youtube에서 '마우스로 가리키면 계속 재생' 문제 수정
 
 ### v1.1.0
-* Now support iPhone as well as iPad and Mac
+* 이제 iPad 및 Mac은 물론 iPhone을 지원합니다.
 * Buy once and run across all platforms
 * Bugfix
 
