@@ -29,55 +29,55 @@ Better Player for YouTube의 최신 버전은 App Store에서 다운로드할 �
 * Youtube에서 '마우스로 가리키면 계속 재생' 문제 수정
 
 ### v1.1.0
-* 이제 iPad 및 Mac은 물론 iPhone을 지원합니다.
-* Buy once and run across all platforms
-* Bugfix
+* 이제 iPad 및 Mac은 물론 iPhone을 지원
+* 한 번 구매하면 모든 플랫폼에서 실행
+* 버그 수정
 
 ### v1.0.2
-* iPad version is also available for iOS 15
-* UI enhancement for the embedded toolbars
-* Settings for adblock and auto-load
+* iPad 버전은 iOS 15에서도 사용할 수 있습니다.
+* 포함된 도구 모음의 UI 개선
+* 광고 차단 및 자동 로드 설정
 
 ## 설치 가이드
 ### macOS
-1. Launch Better Player for Youtube application. Select *Setup* in side bar of the application. And click *Open Safari Extensions Preferences* button. 
+1. Better Player for Youtube 앱을 실행합니다. 애플리케이션의 사이드 바에서 *설정*을 선택하십시오. 그리고 *Safari 확장 프로그램 환경설정 열기* 버튼을 클릭합니다. 
 
   <img src="/Resources/better-player/mac-setup-01.png" width="720"/>
 
-2. It will open Safari's Extensions Preferences. Please check the check-box next to Better Player. Then, click *Always Allow on Every Websites...* button.
+2. Safari의 확장 환경 설정이 열릴 것입니다. Better Player 옆의 확인란을 선택하십시오. 그런 다음 *모든 웹사이트에서 항상 허용...* 버튼을 클릭합니다.	
 
   <img src="/Resources/better-player/mac-setup-02.png" width="720"/>
 
-3. Safari will open the following warning. Because of the way Better Player for Youtube works, the Better Player for Youtube extension needs to have permission to access to the website. Better Player for Youtube does NOT collect any of your data. Please refer [Privacy Policy](#privacy-policy) for details.
+3. Safari는 다음 경고를 엽니다: Better Player for Youtube가 작동하는 방식 때문에 Youtube용 Better Player 확장 프로그램은 웹사이트에 액세스할 수 있는 권한이 있어야 합니다. Better Player for Youtube는 귀하의 데이터를 수집하지 않습니다. 자세한 내용은 [개인 정보 정책](#개인-정보-정책)을 참조하시기 바랍니다.
 
   <img src="/Resources/better-player/mac-setup-03.png" width="240"/>
 
-4. Once Better Player for Youtube set up is done, you will see Safari's Extension Preferences as follows;
+4. Better Player for Youtube 설정이 완료되면 Safari의 확장 설정이 다음과 같이 표시됩니다.
 
   <img src="/Resources/better-player/mac-setup-04.png" width="720"/>
 
-5. All set. Go to *youtube.com* and play the youtube video you want to watch. You'll see the Better Player for Youtube darken the background of the video and it skips the ads.
+5. 모두 완료되었습니다. *youtube.com*으로 이동하여 보고 싶은 YouTube 동영상을 재생합니다. Better Player for Youtube가 동영상 배경을 어둡게 하고 광고를 건너뛰는 것을 볼 수 있습니다.
 
   <img src="/Resources/better-player/mac-setup-05.png" width="720"/>
 
 ### iOS
-1. Launch Settings app and go to Safari > Extensions. Turn on Better Player as follows;
+1. 설정 앱을 실행하고 Safari > 확장 프로그램으로 이동합니다. 다음과 같이 Better Player를 켭니다.
 
   <img src="/Resources/better-player/ipad-setup-01.png" width="680"/>
 
-2. Touch *All Websites* and and select *Allow*;
+2. *모든 웹사이트*를 선택하고 *허용*을 선택합니다.
 
   <img src="/Resources/better-player/ipad-setup-02.png" width="680"/>
 
-3. All set. Go to *youtube.com* and play the youtube video you want to watch. You'll see the Better Player for Youtube darken the background of the video and it skips the ads.
+3. 모두 완료되었습니다. *youtube.com*으로 이동하여 보고 싶은 YouTube 동영상을 재생합니다. Better Player for Youtube가 동영상 배경을 어둡게 하고 광고를 건너뛰는 것을 볼 수 있습니다.
 
   <img src="/Resources/better-player/ipad-setup-03.png" width="680"/>
 
 ## 개인 정보 정책
-Better Player for Youtube does NOT collect any of your data. The only data Better Player for Youtube stores are your settings. These are only saved locally. No one, other than you, has access to this data.
+Better Player for Youtube는 귀하의 데이터를 수집하지 않습니다. Better Player for Youtube에서 수집하는 유일한 데이터는 설정입니다. 로컬에만 저장됩니다. 당신 외에는 아무도 이 데이터에 접근할 수 없습니다.
 
-Because of the way Better Player for Youtube works, the Better Player for Youtube extension needs to have permission to access to the website. This is needed because Better Player for Youtube has to add javascript to control Youtube videos and darken the page. However, Better Player for Youtube never use these permissions to actually read the websites you visit, or to access your browsing history. 
+Better Player for Youtube가 작동하는 방식 때문에 Better Player for Youtube 확장 프로그램은 웹사이트에 액세스할 수 있는 권한이 있어야 합니다. 이는 Better Player for Youtube가 Youtube 비디오를 제어하고 페이지를 어둡게 하기 위해 javascript를 추가해야 하기 때문에 필요합니다. 그러나 Better Player for Youtube는 실제로 방문한 웹사이트를 읽거나 검색 기록에 액세스하는 데 이러한 권한을 사용하지 않습니다.
 
-Better Player for Youtube does not store any information about the websites you're visiting. Not even locally on your device.
+Better Player for Youtube는 귀하가 방문하는 웹사이트에 대한 정보를 저장하지 않습니다.
 
-In Safari Preference, you can Allow or Deny the extensions to specific websites. In case you want to be extra cautious to certain websites, you can enable or disable Better Player for Youtube to the specific websites only.
+Safari 환경설정에서 특정 웹사이트에 대한 확장을 허용하거나 거부할 수 있습니다. 특정 웹사이트에 더 많은 관심을 기울이고 싶다면 특정 웹사이트에 대해서만 Better Player for Youtube를 활성화 또는 비활성화할 수 있습니다.
