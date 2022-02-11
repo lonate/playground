@@ -44,7 +44,7 @@ Better Player for YouTube의 최신 버전은 App Store에서 다운로드할 �
 
   <img src="/Resources/better-player/mac-setup-01.png" width="720"/>
 
-2. Safari의 확장 환경 설정이 열릴 것입니다. Better Player 옆의 확인란을 선택하십시오. 그런 다음 "*모든 웹사이트에서 항상 허용...*" 버튼을 클릭합니다.	
+2. Safari의 확장 환경 설정이 열리면 Better Player 옆의 확인란을 선택하십시오. 그런 다음 "*모든 웹사이트에서 항상 허용...*" 버튼을 클릭합니다.	
 
   <img src="/Resources/better-player/mac-setup-02.png" width="720"/>
 
@@ -56,7 +56,7 @@ Better Player for YouTube의 최신 버전은 App Store에서 다운로드할 �
 
   <img src="/Resources/better-player/mac-setup-04.png" width="720"/>
 
-5. 모두 완료되었습니다. *youtube.com*으로 이동하여 원하는 YouTube 동영상을 재생합니다. Better Player for Youtube가 동영상 배경을 어둡게 하고 광고를 건너뛰는 것을 볼 수 있습니다.
+5. 설정이 완료되었습니다. *youtube.com*으로 이동하여 원하는 YouTube 동영상을 재생합니다. Better Player for Youtube가 동영상 배경을 어둡게 하고 광고를 건너뛰는 것을 볼 수 있습니다.
 
   <img src="/Resources/better-player/mac-setup-05.png" width="720"/>
 
@@ -69,7 +69,7 @@ Better Player for YouTube의 최신 버전은 App Store에서 다운로드할 �
 
   <img src="/Resources/better-player/ipad-setup-02.png" width="680"/>
 
-3. 모두 완료되었습니다. *youtube.com*으로 이동하여 원하는 YouTube 동영상을 재생합니다. Better Player for Youtube가 동영상 배경을 어둡게 하고 광고를 건너뛰는 것을 볼 수 있습니다.
+3. 설정이 완료되었습니다. *youtube.com*으로 이동하여 원하는 YouTube 동영상을 재생합니다. Better Player for Youtube가 동영상 배경을 어둡게 하고 광고를 건너뛰는 것을 볼 수 있습니다.
 
   <img src="/Resources/better-player/ipad-setup-03.png" width="680"/>
 
